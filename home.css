@@ -1,0 +1,30 @@
+nav ul {
+    background-color: sandybrown;
+    border-style: solid;
+    border-color: palegoldenrod;
+    border-width: 2px;
+    padding: 15px;
+    border-radius: 15px;
+  }
+  nav ul li {
+    list-style-type: none;
+    display: inline;
+    margin-right: 10px;
+    margin-left: 10px;
+    color: PapayaWhip;
+  }
+  nav ul li a {
+    text-decoration: none;
+    color: olive;
+  }
+  h1{
+    font-weight: bold;
+    outline-color: sandybrown;
+    outline-width: 10cm;
+  }
+  h2{
+    font-weight: bold;
+    outline-color: sandybrown;
+    text-align: center;
+  }
+  
